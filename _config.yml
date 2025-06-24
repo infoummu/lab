@@ -1,0 +1,24 @@
+# Setup
+title:               LAB INFORMATIKA UMMU
+tagline:             ''
+# tagline:             'Page Of LAB Informatika UMMU'
+description:         'Halaman Informasi Untuk Pelayanan LAB Prodi Informatika UMMU Ternate Malut.'
+url:                 https://infoummu.github.io/lab/
+baseurl:             ''
+paginate:            5
+# permalink:           pretty
+permalink:           /:title
+
+# About/contact
+author:
+  name:              Informatika-UMMU
+  url:               https://twitter.com/infoummu
+  email:             info.ummu@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+# version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
