@@ -59,24 +59,24 @@ author: Ikhwan - Koordinator LAB
             <h3><I>🎓 Dari Mahasiswa, untuk Mahasiswa ✊💡</I></h3>
             <hr>
     <!-- ********************************** -->
-            <h1>Caranya ❓</h1>
+            <h2>Caranya ❓</h2>
 			<ul class="timeline">
 				<li>
-					<h2> 🏃‍♂️ <B>Cus ke Biro Keuangan</B>, ambil slipnya, lalu langsung <B>transfer ke Bank BTN</B> yaa.</h2>
+					<h3> 🏃‍♂️ <B>Cus ke Biro Keuangan</B>, ambil slipnya, lalu langsung <B>transfer ke Bank BTN</B> yaa.</h3>
 				</li>
                 <li>
-                    <h2> 📄 <B>Fotokopi slip-nya</B>, terus <B>validasi ke Pak Ikhwan</B>. Yang asli? Disimpen aja baik-baik.</h2>
+                    <h3> 📄 <B>Fotokopi slip-nya</B>, terus <B>validasi ke Pak Ikhwan</B>. Yang asli? Disimpen aja baik-baik.</h3>
                 </li>
 				<li>
-					<h2> ✍️ Di belakang slip fotokopian, tulis: <B>NPM, Nama, dan Semester</B>. Biar nggak bingung siapa yang bayar 😅</h2>
+					<h3> ✍️ Di belakang slip fotokopian, tulis: <B>NPM, Nama, dan Semester</B>. Biar nggak bingung siapa yang bayar 😅</h3>
 				</li>     
                 <li>
-					<h2> 📲 <B>Isi form online</B> dan <B>upload slip yang udah divalidasi</B>. Jangan lupa dicek ulang sebelum submit!,  <a href="https://forms.gle/qVQQxYQQ3EYJS3xu8" target="_blank">Link Isi Form</a></h2>
+					<h3> 📲 <B>Isi form online</B> dan <B>upload slip yang udah divalidasi</B>. Jangan lupa dicek ulang sebelum submit!,  <a href="https://forms.gle/qVQQxYQQ3EYJS3xu8" target="_blank">Link Isi Form</a></h3>
 				</li>
                 <li>
-					<h2> 🖊️ Terakhir, <B>tanda tangan berita acara</B> untuk semua mata kuliah *<b>praktikum</b> ke <B>Pak Ikhwan</B> ya. Wajib ini!</h2>
+					<h3> 🖊️ Terakhir, <B>tanda tangan berita acara</B> untuk semua mata kuliah *<b>praktikum</b> ke <B>Pak Ikhwan</B> ya. Wajib ini!</h3>
 				</li>          
-                <li><h2>Selesai...  END</h2></li>
+                <li><h3>Selesai...  END</h3></li>
 			</ul>
 		</div>
 	</div>
