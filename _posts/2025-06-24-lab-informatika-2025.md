@@ -65,7 +65,7 @@ author: Ikhwan - Koordinator LAB
 					<h3> 🏃‍♂️ <B>Cus ke Biro Keuangan</B>, ambil slipnya, lalu langsung <B>transfer ke Bank BTN</B> yaa.</h3>
 				</li>
                 <li>
-                    <h3> 📄 <B>Fotokopi slip-nya</B>, terus <B>validasi ke Pak Ikhwan</B>. Yang asli? Disimpen aja baik-baik.</h3>
+                    <h3> 📄 <B>Fotokopi slip-nya</B>, <B>Bawa slip aslinya</B> untuk <B> validasi ke Pak Ikhwan</B>, kemudian kumpul fotokopian-nya ke Pak Ikhwan. </h3>
                 </li>
 				<li>
 					<h3> ✍️ Di belakang slip fotokopian, tulis: <B>NPM, Nama, dan Semester</B>. Biar nggak bingung siapa yang bayar 😅</h3>
