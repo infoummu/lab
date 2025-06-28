@@ -74,8 +74,11 @@ author: Ikhwan - Koordinator LAB
 					<h3> 📲 <B>Isi form online</B> dan <B>upload slip yang udah divalidasi</B>. Jangan lupa dicek ulang sebelum submit!,  <a href="https://forms.gle/qVQQxYQQ3EYJS3xu8" target="_blank">Link Isi Form</a></h3>
 				</li>
                 <li>
-					<h3> 🖊️ Terakhir, <B>tanda tangan berita acara UAS</B> untuk semua mata kuliah *<b>praktikum</b> ke <B>Pak Ikhwan</B> ya. Wajib ini!</h3>
-				</li>          
+					<h3> 🖊️ <B>Bawa slip saat UAS</B>, dan tanda tangan berita acara UAS untuk semua mata kuliah *<b>praktikum</b> ke <B>Pak Ikhwan</B> ya. Wajib ini!</h3>
+				</li>  
+                <li>
+                    <h3> ⏰ Terakhir, <B>Deadline pembayaran: 10 Juni 2025 (10/06/2025) </B></h3>
+                </li>        
                 <li><h3>Selesai...  END</h3></li>
 			</ul>
 		</div>
